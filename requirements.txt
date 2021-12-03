@@ -1,0 +1,4 @@
+requests
+optparser
+optparse-pretty
+bs4
